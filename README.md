@@ -35,5 +35,3 @@ Løsninger skal være:
 * Tilpasset faktiske behov
 
 ---
-
-Under etablering.
